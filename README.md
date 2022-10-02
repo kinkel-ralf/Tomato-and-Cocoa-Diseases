@@ -1,4 +1,4 @@
-Makeathon Tomatoes is trained with a dataset provided at: 
+Makeathon Tomatoes is trained with a dataset provided at:                     
 https://www.kaggle.com/datasets/kaustubhb999/tomatoleaf
 
 Makeathon Cocoa is trained with a dataset provided at:    
